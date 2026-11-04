@@ -39,8 +39,3 @@
      Step 3: 叠加二层 6 个月免费包 (US$0.00 -> 18个月)
      Step 4: 叠加三层 6 个月免费包 (US$0.00 -> 24个月封顶)
      Step 5: 自动前往 Google Play 取消自动续订，锁死 2 年到期权益并截图验真
-
-
-# 卡网：https://faka.cdkey.si
-# 博客：https://blog.caowo.de
-# TG群：@Hello_Florence
